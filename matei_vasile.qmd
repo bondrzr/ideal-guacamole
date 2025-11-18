@@ -8,3 +8,14 @@ Hi it's matei i'm quite a prick
 
 testing a push at the same time get ready for it paul
 
+#Types and classes
+```{r}
+typeof(1.5)
+typeof("paul")
+typeof(TRUE)
+typeof(1L)
+typeof(1)
+typeof(typeof)
+typeof(list())
+```
+
